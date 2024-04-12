@@ -14,7 +14,7 @@ Create a column for the cost of each line using unit cost, qty, and shipping pri
 
 Create a column for the profit of each line using line cost and line price.
 
-#Confirm Your Work
+# Confirm Your Work
 After transforming data, it's always a good idea to verify the results. You have email receipts showing the total prices for 3 orders.
 
 Order ID 2742071 had a total price of $152,811.89 Order ID 2173913 had a total price of $162,388.71 Order ID 6128929 had a total price of $923,441.25
